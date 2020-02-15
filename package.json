@@ -1,5 +1,8 @@
 {
   "name": "test-y2-original",
   "version": "0.0.1",
-  "repository": "https://github.com/kapooostin/test-y2-original.git"
+  "repository": "https://github.com/kapooostin/test-y2-original.git",
+  "dependencies": {
+    "gulp-require-tasks": "https://github.com/kapooostin/gulp-require-tasks"
+  }
 }
